@@ -19,5 +19,9 @@ This system recommends movies to users based on their preferences using **conten
 - **Member 3** – Deployment & Frontend (Streamlit / Flask)
 
 ---
-vb vbbbbbb
+prasanna
+pyt
+laxmi
+vignan
+aids
 ## 📂 Project Structure
