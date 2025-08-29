@@ -1,4 +1,30 @@
+<<<<<<< HEAD
 # Movie-Recomendation-system---nDmatrix
 git 
 hjh
 bjh
+=======
+# 🎬 Movie Recommendation System
+
+A machine learning project built by a team of 3 friends to learn **VS Code**, **GitHub collaboration**, and **ML basics**.  
+This system recommends movies to users based on their preferences using **content-based filtering** and **collaborative filtering**.
+
+---
+
+## 🚀 Features
+- Content-based recommendations using movie genres, keywords, and descriptions.
+- Collaborative filtering using user ratings.
+- Simple **Streamlit** web app for interaction.
+- Clean and modular code with GitHub version control.
+
+---
+
+## 👨‍💻 Team Members
+- **Member 1** – Data Collection & Preprocessing  
+- **Member 2** – Model Building (Content-based + Collaborative Filtering)  
+- **Member 3** – Deployment & Frontend (Streamlit / Flask)
+
+---
+vb vbbbbbb
+## 📂 Project Structure
+>>>>>>> 9f28ea60132d35793b6f9139269d83aa2c961432
